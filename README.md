@@ -1,21 +1,47 @@
 # testRepo
 
-edit 2  
-test various markdown stuff  
-**testBold**  
-*testitalic*  
-
-change from my computer
+## currently using as todo list for various projects
 
 
-| | Header One     | Header Two     |  
-| :------------- | :------------- |  
-| Item One       | Item Two       |  
+## VBA
+* module sync
+- add date functionality
+- remove the thing that messes up getTxTDocumentAsString
 
-Order PCB's in Model  
-*Main PCB Board:* https://oshpark.com/shared_projects/zdu8sdQ4  
-*Stepper Boards:* https://oshpark.com/shared_projects/qPz78o0H  
-*Xbee Board:* https://oshpark.com/shared_projects/hA4cGipD  
+* Eagle
+- needs definition
+- get it to parse a .brd & .scm to a library
 
-see what happens when edit from browser
-=====
+* Arduino Object
+- assign pins 0 - 13 via UI
+- pull in classes/functions from an adjacent folder using a highlightable list
+
+- pull all public stuff from CPP file?
+
+
+
+* Code sync
+- on hold
+
+* Module Modification
+- autoformat
+- get all subs / functions into table
+
+
+## Eagle
+- design ATTiny Prog Sheilds
+- desing ATTiny Based Accelerometer Reader using Coin
+
+## Fusion360
+- 3D print Antenna holder for SIM800L
+- Holder for stewart platform
+
+## Generic
+* run this: git config --global credential.helper wincred
+
+## Arduino
+* SIM800L
+- get it working for send + recieve
+- build new shield
+
+## raspberryPi / Python
