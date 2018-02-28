@@ -5,21 +5,21 @@
 
 ## VBA
 ###* module sync
-- add date functionality
-- remove the thing that messes up getTxTDocumentAsString
+- Done - add date functionality
+- Done - remove the thing that messes up getTxTDocumentAsString
 
 ###* Module Object
 
-- functionality of ModuleVersionDataObject
+- Done - functionality of ModuleVersionDataObject
 
-- get all subs / functions into table
-- add documentation comment table
+- Done - get all subs / functions into table
+- Done - add documentation comment table
 - autoformat
 - Populate 2 wkbk
 - Populate 2 open wkbk
 
 ###* StringArrFunctions
-- insert one string arr into another
+- Done - insert one string arr into another
 
 ###* Eagle
 - needs definition
@@ -41,11 +41,8 @@
 - desing ATTiny Based Accelerometer Reader using Coin
 
 ## Fusion360
-- 3D print Antenna holder for SIM800L
+- Done - 3D print Antenna holder for SIM800L
 - Holder for stewart platform
-
-## Generic
-* run this: git config --global credential.helper wincred
 
 ## Arduino
 * SIM800L
