@@ -4,22 +4,13 @@
 
 
 ## VBA
-###* module sync
-- Done - add date functionality
-- Done - remove the thing that messes up getTxTDocumentAsString
+###* Stewart Platform
+- add voltage divider for battery monitor.
 
-###* Module Object
 
-- Done - functionality of ModuleVersionDataObject
-
-- Done - get all subs / functions into table
-- Done - add documentation comment table
 - autoformat
 - Populate 2 wkbk
 - Populate 2 open wkbk
-
-###* StringArrFunctions
-- Done - insert one string arr into another
 
 ###* Eagle
 - needs definition
@@ -35,14 +26,9 @@
 ###* Code sync
 - on hold
 
-
 ## Eagle
 - design ATTiny Prog Sheilds
 - desing ATTiny Based Accelerometer Reader using Coin
-
-## Fusion360
-- Done - 3D print Antenna holder for SIM800L
-- Holder for stewart platform
 
 ## Arduino
 * SIM800L
